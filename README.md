@@ -1,5 +1,7 @@
 # Oregan Network Test - Dan Foad
 
+Hosted here: https://oregan-networks-foad.s3.eu-west-1.amazonaws.com/index.html
+
 Design considerations:
  - Experience must support fully mouse-less interactions for use with a TV remote/controller
  - However, should still support mouse-level journeys like clicking between inputs, clicking the keyboard, and clicking inside of the input to move the cursor
